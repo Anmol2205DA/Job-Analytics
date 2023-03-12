@@ -16,4 +16,4 @@
 - Comapny size-wise number of job openings.
 - Comparison of number of jobs across different job roles ie, analyst & developer in selected city.
 # Dashboard
-![image]
+![image](https://github.com/Anmol2205DA/images/blob/main/Screenshot%20(34).png)
