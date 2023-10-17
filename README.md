@@ -1,12 +1,16 @@
 # Job-Analytics
 ## Tech Stack used: 
-- Python(Selenium, BeautifulSoup,Pandas, Numpy)
+- Python
+- Selenium, BeautifulSoup, Pandas, Numpy, Matplotlib, Seaborn
 - SQL
 - Microsoft Excel
-- Powerpoint
 - Tableau
-### Data Analysis with Linkedin Job data
+- Powerpoint
+### Data Analysis with Linkedin Job data.
+### 1st part- Using Python.
 #### Data has been Scrapped using python libraries Selenium and BeautifulSoup, overall 450+ recently posted job data has been scrapped from top metro cities of india from linkedin website.
+#### Data Cleaning and Detailed analysis has been done using Python.
+### 2nd Part- Using SQL, Excel and Tableau.
 #### The data contains 3 dataset files i.e:- jobs,company and details.These files used for Jobs analysis.
 ## Analysis using data to find insights.
 - Number of jobs available in different cities.
