@@ -21,5 +21,6 @@
 - Comparison of number of jobs across different job roles ie, analyst & developer in selected city.
 # Tableau- Dashboard
 https://public.tableau.com/app/profile/anmol.srivastav7012/viz/Job-Analytics/Dashboard1?publish=yes
-![image](https://github.com/Anmol2205DA/Job-Analytics/assets/126354821/a59dd1e5-b76c-4324-9739-99aa64fd11e7)
+![image](https://github.com/Anmol2205DA/Job-Analytics/assets/126354821/1c8d6ffc-0ccf-43d7-a3a0-024b610d6b10)
+
 
