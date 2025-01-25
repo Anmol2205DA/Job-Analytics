@@ -1,0 +1,501 @@
+ID,Location,City,Job_Title,Job_Role,Involvement,Level,Applicants,Company,Industry,Employee_Size,Followers
+J1,"Pune, Maharashtra, India",Pune,F&A Senior Admin Assistant,Assistant,Full-time,Mid-Senior level,55,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J2,"Gurgaon, Haryana, India",Gurgaon,Content Writing Internship in Gurgaon at Internshala,Intern,Full-time,Internship,13,Internshala,Education Management ,51 to 100,1103111.00
+J3,"Kakori, Uttar Pradesh, India",Kakori,CarDekho - Territory Head,Territory Head,Full-time,Director,80,CarDekho,Internet ,1001 to 5000,87558.00
+J4,"Noida, Uttar Pradesh, India",Noida,Management Trainee - Banking Analyst,Analyst,Full-time,Associate,200,HCLTech,Information Technology & Services ,10000+,4310955.00
+J5,"Hyderabad, Telangana, India",Hyderabad,Personal Secretary,Secretary,Full-time,Entry level,36,Gamut HR Solutions,Human Resources ,101 to 200,665.00
+J6,"Delhi, Delhi, India",Delhi,Fraud Analyst,Analyst,Full-time,Associate,23,Barclays,Financial Services ,10000+,1306895.00
+J7,"Pune, Maharashtra, India",Pune,Financial Analyst,Analyst,Full-time,Not given,200,UBS,Financial Services ,10000+,1252029.00
+J8,"Pune, Maharashtra, India",Pune,Financial Analyst,Analyst,Full-time,Not given,200,UBS,Financial Services ,10000+,1252029.00
+J9,"Gurgaon, Haryana, India",Gurgaon,Consultant - Communication Training,Trainer,Full-time,Mid-Senior level,45,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J10,"Ahmedabad, Gujarat, India",Ahmedabad,Store keeper,Store keeper,Full-time,Entry level,200,Jet Airways,Airlines/Aviation ,10000+,288983.00
+J11,"Mumbai, Maharashtra, India",Mumbai,EV Area Sales Manager,Manager,Full-time,Mid-Senior level,17,Mahindra Group,Executive Office ,10000+,1071139.00
+J12,"Chennai, Tamil Nadu, India",Chennai,Associate Graduate,Associate,Full-time,Entry level,200,NTT Ltd.,Information Technology & Services ,10000+,367030.00
+J13,"Hyderabad, Telangana, India",Hyderabad,Key Account Manager I,Accountant,Full-time,Mid-Senior level,145,Swiggy,Computer Software ,1001 to 5000,1212772.00
+J14,"Pune, Maharashtra, India",Pune,Senior Accountant,Accountant,Full-time,Mid-Senior level,146,Mastercard,Information Technology & Services ,10000+,1149262.00
+J15,"Gurgaon, Haryana, India",Gurgaon,Data Analytics,Analyst,Full-time,Mid-Senior level,200,WNS,Outsourcing/Offshoring ,10000+,555044.00
+J16,"Kakori, Uttar Pradesh, India",Kakori,Virtual Customer Service Associate - Lucknow,Associate,Full-time,Entry level,11,Qween Network LLP,Human Resources ,11 to 50,39368.00
+J17,"Delhi, Delhi, India",Delhi,"Regional Manager, South Asia",Manager,Full-time,Director,200,Taylor Hopkinson | Powered by Brunel,Staffing & Recruiting ,51 to 100,164850.00
+J18,"Ahmedabad, Gujarat, India",Ahmedabad,Medkart - Head - Retail Operations,Head,Full-time,Director,16,Medkart Pharmacy,Retail ,201 to 500,4800.00
+J19,"Bengaluru, Karnataka, India",Bengaluru,Associate-Human Resource Admin,Associate,Full-time,Not given,200,Tesco Bengaluru,Retail ,5001 to 10000,205552.00
+J20,"Pune, Maharashtra, India",Pune,Financial Analyst,Analyst,Full-time,Not given,200,UBS,Financial Services ,10000+,1252029.00
+J21,"Delhi, Delhi, India",Delhi,Regional Logistics & Accounts Manager,Accountant,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J22,"Mumbai, Maharashtra, India",Mumbai,Executive Microbiology,Executive,Full-time,Executive,24,Galentic Pharma (India) Pvt. Ltd.,Pharmaceuticals ,201 to 500,7459.00
+J23,"Hyderabad, Telangana, India",Hyderabad,Analyst - Data Analysis & reporting,Analyst,Full-time,Not given,200,Deloitte,Management Consulting ,10000+,11242133.00
+J24,"Gurgaon, Haryana, India",Gurgaon,HR Manager,Human-resourse,Full-time,Mid-Senior level,200,Crocs,Consumer Goods ,1001 to 5000,61755.00
+J25,Greater Delhi Area,Delhi,RKA Supervisor,Supervisor,Full-time,Mid-Senior level,38,Dyson,Electrical & Electronic Manufacturing ,10000+,320902.00
+J26,"Gurgaon, Haryana, India",Gurgaon,Business Analyst,Analyst,Full-time,Mid-Senior level,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J27,"Ahmedabad, Gujarat, India",Ahmedabad,Hiring For Civil Site Engineer,Engineer,Full-time,Entry level,130,Mspire HR Solutions (Unit of Mspire Ventures Private Limited),Staffing & Recruiting ,11 to 50,3242.00
+J28,"Bengaluru, Karnataka, India",Bengaluru,Human Resources Generalist,Generalist,Full-time,Mid-Senior level,60,NAVIS Human Resources,Human Resources ,51 to 100,3713.00
+J29,"Pune, Maharashtra, India",Pune,HTML Developer,Developer,Full-time,Associate,130,WhiteSnow Software,Information Technology & Services ,51 to 100,2843.00
+J30,"Hyderabad, Telangana, India",Hyderabad,Staff Accountant,Accountant,Full-time,Entry level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J31,"Delhi, Delhi, India",Delhi,Senior Associate,Associate,Full-time,Mid-Senior level,192,PwC India,Management Consulting ,5001 to 10000,914515.00
+J32,"Viratnagar, Rajasthan, India",Viratnagar,MedSurg Registered Nurse,Nurse,Full-time,Mid-Senior level,10,Spectrum Healthcare Resources,Hospital & Health Care ,1001 to 5000,3426.00
+J33,"Pune, Maharashtra, India",Pune,Intern,Intern,Full-time,Internship,27,Cerence Inc.,Computer Software ,1001 to 5000,27194.00
+J34,"Noida, Uttar Pradesh, India",Noida,Customer Service Representative,Customer Support,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J35,"Noida, Uttar Pradesh, India",Noida,Digital Marketing,Marketing,Full-time,Entry level,45,Network18 Media & Investments Limited,Media Production ,5001 to 10000,202485.00
+J36,"Pune, Maharashtra, India",Pune,Registered Nurse - RN,Nurse,Full-time,Mid-Senior level,10,Genesis Healthcare,"Health, Wellness & Fitness ",101 to 200,78.00
+J37,"Gurgaon, Haryana, India",Gurgaon,Buyer,Buyer,Full-time,Mid-Senior level,43,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J38,"Chennai, Tamil Nadu, India",Chennai,Copywriter,Copywriter,Full-time,Entry level,16,VPlayed,Computer Software ,201 to 500,1910.00
+J39,"Chennai, Tamil Nadu, India",Chennai,Plant Head- operations,Head,Full-time,Mid-Senior level,29,T & A Solutions,Human Resources ,101 to 200,16585.00
+J40,"Noida, Uttar Pradesh, India",Noida,Chemical Engineer,Engineer,Full-time,Entry level,138,Pollucon Technologies Limited,Construction ,51 to 100,344.00
+J41,"Gurgaon, Haryana, India",Gurgaon,Executive - Crew training,Trainer,Full-time,Entry level,72,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J42,"Lucknow, Uttar Pradesh, India",Lucknow,HR Admin and Executive,Executive,Full-time,Mid-Senior level,53,Career Junction,Staffing & Recruiting ,101 to 200,1046.00
+J43,"Gurgaon, Haryana, India",Gurgaon,Recruiter,Recruiter,Full-time,Associate,98,Gartner,Information Services ,10000+,1465648.00
+J44,"Hyderabad, Telangana, India",Hyderabad,Procurement Executive,Executive,Full-time,Mid-Senior level,35,WayCool Foods,Food & Beverages ,1001 to 5000,45977.00
+J45,"Delhi, Delhi, India",Delhi,Payroll Specialist (APAC - India),Payroll Specialist,Full-time,Entry level,75,Horizons,Financial Services ,51 to 100,5380.00
+J46,"Chennai, Tamil Nadu, India",Chennai,Mechanical Engineer Trainer,Manager,Full-time,Entry level,18,STRESCON INDUSTRIES LIMITED,Railroad Manufacture ,501 to 1000,9601.00
+J47,"Mumbai, Maharashtra, India",Mumbai,Assistant Brand Manager - Brand Development,Manager,Full-time,Mid-Senior level,200,Unilever,Consumer Goods ,10000+,18229634.00
+J48,"Bengaluru, Karnataka, India",Bengaluru,Medical Coder,Medical Coder,Full-time,Entry level,200,Optum,Hospital & Health Care ,10000+,570975.00
+J49,"Delhi, Delhi, India",Delhi,Manager - Regional Customer,Manager,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J50,"Hyderabad, Telangana, India",Hyderabad,Electrician,Electrician,Full-time,Entry level,15,Talent Zone Consultant,Human Resources ,11 to 50,2872.00
+J51,"Bengaluru, Karnataka, India",Bengaluru,"Content Writer, CX",Content Writer,Full-time,Associate,188,PhonePe,Computer Software ,1001 to 5000,524134.00
+J52,"Bhopal, Madhya Pradesh, India",Bhopal,Front Desk Executive,Executive,Full-time,Mid-Senior level,11,Talish Solutions,Staffing & Recruiting ,101 to 200,1379.00
+J53,"Gurugram, Haryana, India",Gurugram,Analyst,Analyst,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J54,"Bengaluru, Karnataka, India",Bengaluru,Executive Assistant,Assistant,Full-time,Not given,10,GSK,Pharmaceuticals ,10000+,3433566.00
+J55,"Bengaluru, Karnataka, India",Bengaluru,Assistant General Manager Design,Manager,Full-time,Mid-Senior level,10,Flipspaces,Design ,51 to 100,26542.00
+J56,"Bengaluru, Karnataka, India",Bengaluru,Assistant Controller India,Assistant,Full-time,Mid-Senior level,18,Deel,Financial Services ,1001 to 5000,98130.00
+J57,"Goa, Goa, India",Goa,Engineer - Mechanical,Engineer,Full-time,Entry level,190,Cipla,Pharmaceuticals ,10000+,1046238.00
+J58,"Delhi, Delhi, India",Delhi,Customer Service - Associate,Associate,Full-time,Entry level,10,Paytm,Financial Services ,10000+,1101711.00
+J59,"Ahmedabad, Gujarat, India",Ahmedabad,Quality Assurance - Qualification/Validation,Associate,Full-time,Entry level,108,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J60,"Chennai, Tamil Nadu, India",Chennai,Manual Tester - Application Testing,Tester,Full-time,Entry level,157,HuQuo,Human Resources ,11 to 50,11914.00
+J61,"Kakori, Uttar Pradesh, India",Kakori,Customer Relationship Manager,Customer Support,Full-time,Mid-Senior level,8,ffreedom app,Higher Education ,1001 to 5000,6077.00
+J62,"Kolkata, West Bengal, India",Kolkata,hiring for QA - QMS,Associate,Full-time,Entry level,112,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J63,"Mumbai, Maharashtra, India",Mumbai,Human Resources Intern,Intern,Full-time,Internship,200,Purplle.com,Computer Software ,501 to 1000,256500.00
+J64,"Lucknow, Uttar Pradesh, India",Lucknow,Area Manager,Manager,Full-time,Mid-Senior level,116,Fastline Global Recruitment Services,Staffing & Recruiting ,51 to 100,7639.00
+J65,"Pune, Maharashtra, India",Pune,Frontend UI Developer - Javascript/HTML5/CSS3,Developer,Full-time,Mid-Senior level,30,Taliun,Information Technology & Services ,11 to 50,2418.00
+J66,"Ahmedabad, Gujarat, India",Ahmedabad,AutoCAD Designer / Draughtsman,Designer,Full-time,Entry level,27,NeetDeep Group,Computer Software ,51 to 100,531.00
+J67,"Pune, Maharashtra, India",Pune,Python Developer,Developer,Full-time,Entry level,200,Credit Suisse,Banking ,10000+,1234234.00
+J68,"Chennai, Tamil Nadu, India",Chennai,Educational Counselor,Counseler,Full-time,Not given,20,Saint Teresa University,Higher Education ,11 to 50,37.00
+J69,"Kolkata, West Bengal, India",Kolkata,Instrumentation Engineer,Engineer,Full-time,Entry level,159,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J70,"Goa, India",Goa,"Sr. Director, Product Manager",Manager,Full-time,Director,8,Elemica,Computer Software ,201 to 500,8903.00
+J71,"Noida, Uttar Pradesh, India",Noida,civil engineer fresher,Engineer,Full-time,Entry level,178,Spirale HR Solutions Pvt Ltd,Human Resources ,51 to 100,853.00
+J72,"Salem, Tamil Nadu, India",Salem,Executive Hr. Consultant,Consultant,Full-time,Mid-Senior level,20,assuredjob.com,Staffing & Recruiting ,11 to 50,7398.00
+J73,"Bengaluru, Karnataka, India",Bengaluru,Business Operations Analyst,Analyst,Full-time,Not given,200,HP,Information Technology & Services ,10000+,5143704.00
+J74,"Bengaluru, Karnataka, India",Bengaluru,Technical Service Engineer,Engineer,Full-time,Not given,36,Shell,Oil & Energy ,10000+,6057750.00
+J75,"Pune, Maharashtra, India",Pune,Revit - Trainee Design Engineer,Engineer,Full-time,Internship,200,Indovance Inc.,Outsourcing/Offshoring ,201 to 500,11020.00
+J76,"Chennai, Tamil Nadu, India",Chennai,Rebar Detailer,Rebar Detailer,Full-time,Entry level,16,Pramoda Rebar (P) Ltd,Civil Engineering ,51 to 100,561.00
+J77,"Hanumangarh, Rajasthan, India",Hanumangarh,Kitchen Staff,Staff,Full-time,Entry level,10,Opaa! Food Management,Food & Beverages ,1001 to 5000,1629.00
+J78,"Hyderabad, Telangana, India",Hyderabad,Accountant,Accountant,Full-time,Mid-Senior level,22,IXORA Global Services,Staffing & Recruiting ,51 to 100,611.00
+J79,"Lucknow, Uttar Pradesh, India",Lucknow,Human Resources (HR) Internship in Lucknow at TalentPret,Human-resourse,Full-time,Internship,10,TalentPret,Information Technology & Services ,11 to 50,3091.00
+J80,"Pune, Maharashtra, India",Pune,HR Business Partner,Human-resourse,Full-time,Mid-Senior level,200,Hansen Technologies,Computer Software ,1001 to 5000,27444.00
+J81,"Hyderabad, Telangana, India",Hyderabad,Key Account Manager,Accountant,Full-time,Mid-Senior level,200,Airtel Payments Bank,Financial Services ,501 to 1000,215227.00
+J82,"Gurgaon, Haryana, India",Gurgaon,Manager - Investigation,Manager,Full-time,Mid-Senior level,140,Xiaomi India,Computer Software ,501 to 1000,190457.00
+J83,"Noida, Uttar Pradesh, India",Noida,Assistant Manager,Manager,Full-time,Not given,200,Flipkart,Computer Software ,10000+,3094261.00
+J84,"Delhi, Delhi, India",Delhi,Head - Operations - Personal Care/Beauty - NCR - 15 years+,Head,Full-time,Mid-Senior level,191,Michael Page,Staffing & Recruiting ,5001 to 10000,3090244.00
+J85,"Gurgaon, Haryana, India",Gurgaon,Associate Consultant,Associate,Full-time,Entry level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J86,"Gurgaon, Haryana, India",Gurgaon,Assistant Manager,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J87,"Lucknow, Uttar Pradesh, India",Lucknow,Electrical Engineer,Engineer,Full-time,Entry level,200,Mahindra Truck and Bus,Automotive ,501 to 1000,54049.00
+J88,"Mumbai, Maharashtra, India",Mumbai,Assistant Manager/Manager - Consumer Insights,Manager,Full-time,Entry level,34,BookMyShow,Entertainment ,1001 to 5000,86468.00
+J89,"Gurgaon, Haryana, India",Gurgaon,Senior Business Analyst,Analyst,Full-time,Mid-Senior level,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J90,"Gurgaon, Haryana, India",Gurgaon,AM Production planning and control,Executive,Full-time,Mid-Senior level,82,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J91,"Bengaluru, Karnataka, India",Bengaluru,Learning & Development Manager,Manager,Full-time,Associate,200,PhonePe,Computer Software ,1001 to 5000,524134.00
+J92,"Gurgaon, Haryana, India",Gurgaon,"Data Scientist, Business and Marketing",marketing,Full-time,Not given,200,Google,Computer Software ,10000+,27090560.00
+J93,"Lucknow, Uttar Pradesh, India",Lucknow,"Interviews For Airport Ground Staff, Air Ticketing, Cabin Crew",Staff,Full-time,Executive,200,Airbov Solutions,Information Technology & Services ,11 to 50,272.00
+J94,"Hyderabad, Telangana, India",Hyderabad,Junior Python Developer,Developer,Full-time,Entry level,128,CGI,Information Technology & Services ,10000+,1013678.00
+J95,"Pune, Maharashtra, India",Pune,Accountant,Accountant,Full-time,Mid-Senior level,200,Infosys BPM,Information Technology & Services ,10000+,779454.00
+J96,"Noida, Uttar Pradesh, India",Noida,Customer Service Representative,Customer Support,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J97,"Gurgaon, Haryana, India",Gurgaon,Fresher Civil Site Engineer,Engineer,Full-time,Entry level,200,Spirale HR Solutions Pvt Ltd,Human Resources ,51 to 100,853.00
+J98,"Delhi, Delhi, India",Delhi,Retail Manager (Fragrance & Beauty),Manager,Full-time,Mid-Senior level,200,CHANEL,Luxury Goods & Jewelry ,10000+,2024568.00
+J99,"Hyderabad, Telangana, India",Hyderabad,"Vendor Operations Manager, Core",Manager,Full-time,Not given,200,Google,Computer Software ,10000+,27090560.00
+J100,"Chennai, Tamil Nadu, India",Chennai,Content Writer,Content Writer,Full-time,Entry level,69,VPlayed,Computer Software ,201 to 500,1910.00
+J101,"Ahmedabad, Gujarat, India",Ahmedabad,EHS Corporate Head,Head,Full-time,Entry level,28,Ken McCoy Consulting,Human Resources ,11 to 50,829.00
+J102,"Hisar, Haryana, India",Hisar,Video Editor,Video Editor,Full-time,Mid-Senior level,11,Aral Digital Marketing Agency,Marketing & Advertising ,101 to 200,22.00
+J103,"Hyderabad, Telangana, India",Hyderabad,Data Analyst,Analyst,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J104,"Gurgaon, Haryana, India",Gurgaon,Material Planning (Export/Import) and Inventoy Control,Executive,Full-time,Entry level,156,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J105,"Bengaluru, Karnataka, India",Bengaluru,MIS Executive,Executive,Full-time,Mid-Senior level,20,AyurVAID Hospitals,Hospital & Health Care ,51 to 100,8351.00
+J106,"Pune, Maharashtra, India",Pune,Accountant,Accountant,Full-time,Entry level,200,Mahindra Truck and Bus,Automotive ,501 to 1000,54049.00
+J107,"Hyderabad, Telangana, India",Hyderabad,Safety Officer,Officer,Full-time,Not given,200,Mace,Construction ,5001 to 10000,365101.00
+J108,"Delhi, Delhi, India",Delhi,Associate- Internal Audit - Gurgaon,Associate,Full-time,Mid-Senior level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J109,"Navi Mumbai, Maharashtra, India",Navi Mumbai,Accounts Receivable Lead,Accountant,Full-time,Mid-Senior level,200,Reliance Retail,Retail ,10000+,687136.00
+J110,"Ahmedabad, Gujarat, India",Ahmedabad,Beiersdorf - Manager - Supply Chain,Manager,Full-time,Mid-Senior level,200,NIVEA INDIA,Consumer Goods ,501 to 1000,122588.00
+J111,"Gurgaon, Haryana, India",Gurgaon,Digital Marketing Analyst,Analyst,Full-time,Entry level,200,Hyatt Regency,Hospitality ,10000+,374139.00
+J112,"Mumbai, Maharashtra, India",Mumbai,Director,Director,Full-time,Director,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J113,"Bengaluru, Karnataka, India",Bengaluru,Business Analyst,Analyst,Full-time,Not given,32,Shell,Oil & Energy ,10000+,6057750.00
+J114,"Bengaluru, Karnataka, India",Bengaluru,Discovery Biology,Biologist,Full-time,Entry level,72,Anthem Biosciences Private Limited,Pharmaceuticals ,1001 to 5000,72580.00
+J115,"Ahmedabad, Gujarat, India",Ahmedabad,Assistant Pharmacist,Pharmacist,Full-time,Entry level,23,Medkart Pharmacy,Retail ,201 to 500,4800.00
+J116,"Gurgaon, Haryana, India",Gurgaon,Executive - Crew training,Trainer,Full-time,Entry level,57,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J117,"Chennai, Tamil Nadu, India",Chennai,Software Engineer,Engineer,Full-time,Mid-Senior level,200,Netmeds.com,"Health, Wellness & Fitness ",501 to 1000,53635.00
+J118,"Bengaluru, Karnataka, India",Bengaluru,Analyst,Analyst,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J119,"Gurgaon, Haryana, India",Gurgaon,Executive paramedic nurse,Nurse,Full-time,Entry level,98,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J120,"Gurgaon, Haryana, India",Gurgaon,Administrative Assistant,Assistant,Full-time,Not given,19,Moody's Corporation,Financial Services ,10000+,150707.00
+J121,"Mumbai, Maharashtra, India",Mumbai,Brand Executive � Marketing Activation,marketing,Full-time,Mid-Senior level,200,Unilever,Consumer Goods ,10000+,18229634.00
+J122,"Hyderabad, Telangana, India",Hyderabad,Business Analyst,Analyst,Full-time,Not given,200,Deloitte,Management Consulting ,10000+,11242133.00
+J123,"Pune, Maharashtra, India",Pune,Influencer Marketing Internship in Pune at FirstCry.com,marketing,Full-time,Internship,59,FirstCry.com (BrainBees Solutions Pvt. Ltd.),Retail ,5001 to 10000,57369.00
+J124,"Mumbai, Maharashtra, India",Mumbai,Associate,Associate,Full-time,Entry level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J125,"Hyderabad, Telangana, India",Hyderabad,Zonal Manager - Domestic Hotel Supply,Manager,Full-time,Mid-Senior level,200,MakeMyTrip,Computer Software ,1001 to 5000,457368.00
+J126,"Hyderabad, Telangana, India",Hyderabad,Clinical Research Associate,Associate,Full-time,Entry level,200,ICON Strategic Solutions,Pharmaceuticals ,10000+,205044.00
+J127,"Gurgaon, Haryana, India",Gurgaon,Analyst / Senior Analyst� Data Science & Strategy,Analyst,Full-time,Mid-Senior level,10,American Express,Financial Services ,10000+,1776398.00
+J128,"Gurgaon, Haryana, India",Gurgaon,Human Resources Generalist,Generalist,Full-time,Mid-Senior level,65,SipnoTech,Computer Software ,101 to 200,189.00
+J129,"Gurugram, Haryana, India",Gurugram,Process Specialist,Specialist,Full-time,Not given,54,Wipro,Information Technology & Services ,10000+,6414174.00
+J130,"Bengaluru, Karnataka, India",Bengaluru,Research Associate,Associate,Full-time,Associate,200,Infiniti Research Ltd.,Market Research ,501 to 1000,85200.00
+J131,"Pune, Maharashtra, India",Pune,Procurement Executive,Executive,Full-time,Mid-Senior level,200,Emerson,Mechanical Or Industrial Engineering ,10000+,790715.00
+J132,"Mumbai, Maharashtra, India",Mumbai,Head of Marketing,marketing,Full-time,Not given,36,All Time Filmy,Media Production ,101 to 200,37.00
+J133,"Dhira, Himachal Pradesh, India",Dhira,Quality Engineer (QA/QC),Tester,Full-time,Entry level,7,Tekniq Oy,Mechanical Or Industrial Engineering ,51 to 100,4685.00
+J134,"Lucknow, Uttar Pradesh, India",Lucknow,Godrej Agrovet - Deputy General Manager - Human Resource,Manager,Full-time,Director,58,Godrej Industries Limited (Chemicals),Chemicals ,501 to 1000,32525.00
+J135,"Bengaluru, Karnataka, India",Bengaluru,Business Operations Analyst,Analyst,Full-time,Not given,200,HP,Information Technology & Services ,10000+,5143704.00
+J136,"Pune, Maharashtra, India",Pune,Trainee Architect,Architect,Full-time,Internship,93,Indovance Inc.,Outsourcing/Offshoring ,201 to 500,11020.00
+J137,"Bengaluru, Karnataka, India",Bengaluru,Financial Analyst,Analyst,Full-time,Not given,200,HP,Information Technology & Services ,10000+,5143704.00
+J138,"Bengaluru, Karnataka, India",Bengaluru,Senior Manager - Consumer Insights and Research,Manager,Full-time,Mid-Senior level,122,Swiggy,Computer Software ,1001 to 5000,1212772.00
+J139,"Bengaluru, Karnataka, India",Bengaluru,Financial Analyst,Analyst,Full-time,Not given,200,HP,Information Technology & Services ,10000+,5143704.00
+J140,"Hyderabad, Telangana, India",Hyderabad,Technical Project Manager,Manager,Full-time,Director,48,ideyaLabs,Information Technology & Services ,501 to 1000,4412.00
+J141,"Sanand, Gujarat, India",Sanand,Process Coach - SCM,Coach,Full-time,Mid-Senior level,10,Ford Motor Company,Automotive ,10000+,3723666.00
+J142,"Gurgaon, Haryana, India",Gurgaon,Assistant Manager,Manager,Full-time,Mid-Senior level,200,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J143,"Chennai, Tamil Nadu, India",Chennai,Lab Chemist,Chemist,Full-time,Mid-Senior level,57,Cynosure Corporate Solutions,Staffing & Recruiting ,51 to 100,9066.00
+J144,"Mumbai, Maharashtra, India",Mumbai,Manufacturing Head for a leading plastics packaging company,Head,Full-time,Director,83,Michael Page,Staffing & Recruiting ,5001 to 10000,3090244.00
+J145,"Indore, Madhya Pradesh, India",Indore,Unit Head - P and L - Fulfilment Operations,Executive,Full-time,Mid-Senior level,50,BlackBuck (Zinka Logistics Solutions Pvt. Ltd.),Transportation/Trucking/Railroad ,5001 to 10000,96938.00
+J146,"Mumbai, Maharashtra, India",Mumbai,Sales Executive,Executive,Full-time,Mid-Senior level,1,Acme Services,Human Resources ,51 to 100,79751.00
+J147,"Pune, Maharashtra, India",Pune,Trainee MEP Engineer,Engineer,Full-time,Internship,24,Indovance Inc.,Outsourcing/Offshoring ,201 to 500,11020.00
+J148,"Noida, Uttar Pradesh, India",Noida,Revenue Operations Analyst,Analyst,Full-time,Mid-Senior level,200,Oracle,Information Technology & Services ,10000+,8577113.00
+J149,"Noida, Uttar Pradesh, India",Noida,Social Media Escalations Associate,Associate,Full-time,Entry level,82,Paytm Payments Bank,Banking ,1001 to 5000,91335.00
+J150,"Ahmedabad, Gujarat, India",Ahmedabad,Production Engineer,Engineer,Full-time,Entry level,200,Shreeji Industries,Mechanical Or Industrial Engineering ,11 to 50,498.00
+J151,"Bengaluru, Karnataka, India",Bengaluru,Internal Audit - Bangalore - Associate,Associate,Full-time,Mid-Senior level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J152,"Chennai, Tamil Nadu, India",Chennai,Technical Recruiter,Recruiter,Full-time,Mid-Senior level,7,IndusTeqsite Pvt Ltd,Defense & Space ,201 to 500,2176.00
+J153,"Delhi, Delhi, India",Delhi,"Product Analyst (Full Time, Remote)",Analyst,Full-time,Mid-Senior level,200,Hike,Computer Software ,51 to 100,351786.00
+J154,"Ahmedabad, Gujarat, India",Ahmedabad,Site Engineer,Engineer,Full-time,Entry level,106,RK HR Management Private Limited,Staffing & Recruiting ,11 to 50,11942.00
+J155,"Hyderabad, Telangana, India",Hyderabad,Director of Human Resources,Director,Full-time,Director,200,24-7 Intouch,Outsourcing/Offshoring ,10000+,102779.00
+J156,"Mumbai, Maharashtra, India",Mumbai,Collection Advisor - BPO,Advisor,Full-time,Mid-Senior level,111,Paytm,Financial Services ,10000+,1101711.00
+J157,"Gurgaon, Haryana, India",Gurgaon,"Manager, Digital Marketing - Social Content",marketing,Full-time,Mid-Senior level,200,The Coca-Cola Company,Food & Beverages ,10000+,7070166.00
+J158,"Lucknow, Uttar Pradesh, India",Lucknow,Producer,Producer,Full-time,Associate,200,Mirchi,Entertainment ,1001 to 5000,218007.00
+J159,"Bengaluru, Karnataka, India",Bengaluru,"Head - General Insurance Underwriting &, Product Development",Head,Full-time,Director,27,PhonePe,Computer Software ,1001 to 5000,524134.00
+J160,"Vishakhapatnam, Andhra Pradesh, India",Vishakhapatnam,Lab Technician,Technician,Full-time,Entry level,1,Accurex Biomedical,Medical Device ,201 to 500,11296.00
+J161,"Kolkata, West Bengal, India",Kolkata,CAD Draughtsman,Assistant,Full-time,Entry level,31,SrinSoft Technologies,Information Technology & Services ,501 to 1000,14172.00
+J162,"Bengaluru, Karnataka, India",Bengaluru,Business Associate-Proposal/ Bid Operations- Bangalore - PG Fresher - KPMG Global Services,Associate,Full-time,Director,200,KPMG India,Management Consulting ,10000+,1401090.00
+J163,"Ahmedabad, Gujarat, India",Ahmedabad,Industrial Engineer - General,Engineer,Full-time,Mid-Senior level,200,Siemens Energy,Renewables & Environment ,10000+,1044750.00
+J164,"Pune, Maharashtra, India",Pune,Process Specialist,Specialist,Full-time,Entry level,200,Infosys BPM,Information Technology & Services ,10000+,779454.00
+J165,"Ahmedabad, Gujarat, India",Ahmedabad,Job need for - Medical Affairs,Associate,Full-time,Entry level,14,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J166,"Delhi, Delhi, India",Delhi,Aditya Birla Fashion and Retail - Category Manager - Jaypore,Manager,Full-time,Mid-Senior level,200,Aditya Birla Fashion and Retail Ltd - Pantaloons,Retail ,5001 to 10000,52391.00
+J167,"Pune, Maharashtra, India",Pune,Procurement Lead - Non Perishables,Head,Full-time,Mid-Senior level,70,Dunzo,Computer Software ,5001 to 10000,270387.00
+J168,"Kolkata, West Bengal, India",Kolkata,Mechanical Technician,Technician,Full-time,Entry level,54,Navin Group,Logistics & Supply Chain ,1001 to 5000,1765.00
+J169,"Gurgaon, Haryana, India",Gurgaon,Fresher Mechanical Engineer,Engineer,Full-time,Entry level,168,Spirale HR Solutions Pvt Ltd,Human Resources ,51 to 100,853.00
+J170,"Mumbai, Maharashtra, India",Mumbai,Manager / SR Consultant | Management Consulting,Manager,Full-time,Mid-Senior level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J171,"Chennai, Tamil Nadu, India",Chennai,HR Director,Director,Full-time,Director,200,Antal International,Staffing & Recruiting ,1001 to 5000,609997.00
+J172,"Bengaluru, Karnataka, India",Bengaluru,Financial Analyst,Analyst,Full-time,Not given,200,HP,Information Technology & Services ,10000+,5143704.00
+J173,"Ahmedabad, Gujarat, India",Ahmedabad,Head - Corporate HR,Head,Full-time,Director,200,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J174,"Hyderabad, Telangana, India",Hyderabad,Civil Engineer,Engineer,Full-time,Not given,200,Mace,Construction ,5001 to 10000,365101.00
+J175,"Mumbai, Maharashtra, India",Mumbai,FP&A,Accountant,Full-time,Mid-Senior level,25,Acme Services,Human Resources ,51 to 100,79751.00
+J176,"Hyderabad, Telangana, India",Hyderabad,Key Account Manager I,Accountant,Full-time,Mid-Senior level,121,Swiggy,Computer Software ,1001 to 5000,1212772.00
+J177,"Bengaluru, Karnataka, India",Bengaluru,Australian Time Zone - Sales Development Representative (INDIA) - REMOTE,Sales,Full-time,Not given,28,Fortanix,Computer & Network Security ,201 to 500,58114.00
+J178,"Pune, Maharashtra, India",Pune,Graduate Analyst,Analyst,Full-time,Associate,48,Barclays,Financial Services ,10000+,1306895.00
+J179,"Chennai, Tamil Nadu, India",Chennai,Engineer - Calibration,Engineer,Full-time,Entry level,21,Mahindra Group,Executive Office ,10000+,1071139.00
+J180,"Bengaluru, Karnataka, India",Bengaluru,Inventory Planner,Executive,Full-time,Mid-Senior level,200,cure.fit (cult.fit),"Health, Wellness & Fitness ",1001 to 5000,276469.00
+J181,"Delhi, Delhi, India",Delhi,Factory Manager/ Sr. Factory Manager,Manager,Full-time,Mid-Senior level,4,Alom Poly Extrusions Ltd.,Plastics ,501 to 1000,1472.00
+J182,"Mumbai, Maharashtra, India",Mumbai,"Manager, Films and Series Marketing - India",marketing,Full-time,Not given,200,Netflix,Entertainment ,10000+,9322430.00
+J183,"Mumbai, Maharashtra, India",Mumbai,Client Partner:Travel and Education,Partner,Full-time,Mid-Senior level,200,Spotify,Music ,5001 to 10000,3079803.00
+J184,"Lucknow, Uttar Pradesh, India",Lucknow,"Unit Head(Leading Hospital Chain, Multiple locations)",Head,Full-time,Director,10,Michael Page,Staffing & Recruiting ,5001 to 10000,3090244.00
+J185,"Bengaluru, Karnataka, India",Bengaluru,Arvind - Manager - eCommerce,Manager,Full-time,Mid-Senior level,200,Arvind Limited,Apparel & Fashion ,10000+,135491.00
+J186,"Gurugram, Haryana, India",Gurugram,Intern/ Trainee,Intern,Full-time,Internship,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J187,"Pune, Maharashtra, India",Pune,Airport Ground Staff,Staff,Full-time,Executive,42,Airbov Solutions,Information Technology & Services ,11 to 50,272.00
+J188,"Pune, Maharashtra, India",Pune,System Administrator - 300822,Admin,Full-time,Mid-Senior level,45,SirionLabs,Computer Software ,501 to 1000,89499.00
+J189,"Gurgaon, Haryana, India",Gurgaon,learning and development-GTS,Associate,Full-time,Entry level,129,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J190,India,Delhi,Talent Acquisition Operations Coordinator,Recruiter,Full-time,Entry level,200,WarnerMedia,Entertainment ,10000+,639229.00
+J191,"Hyderabad, Telangana, India",Hyderabad,Sales Associate - B2B,Associate,Full-time,Entry level,73,Dunzo,Computer Software ,5001 to 10000,270387.00
+J192,"Chennai, Tamil Nadu, India",Chennai,Voyage Claims Specialist,Specialist,Full-time,Not given,20,Shell,Oil & Energy ,10000+,6057750.00
+J193,"Gurgaon, Haryana, India",Gurgaon,Regional Airports Manager - India and Maldives,Manager,Full-time,Mid-Senior level,200,British Airways,Airlines/Aviation ,10000+,701423.00
+J194,"Gurgaon, Haryana, India",Gurgaon,Human Resources Officer,Recruiter,Full-time,Entry level,200,Hyatt Regency,Hospitality ,10000+,374139.00
+J195,"Bengaluru, Karnataka, India",Bengaluru,TCS BPS hiring For Insurance Analyst-Bangalore Location,Analyst,Full-time,Mid-Senior level,200,Tata Consultancy Services,Information Technology & Services ,10000+,11344528.00
+J196,"Delhi, Delhi, India",Delhi,Associate- Internal Audit - Gurgaon,Associate,Full-time,Mid-Senior level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J197,"Gurgaon, Haryana, India",Gurgaon,"Junior Analyst - Accounting, Reporting and Control Coordinator",Analyst,Full-time,Mid-Senior level,47,Dyson,Electrical & Electronic Manufacturing ,10000+,320902.00
+J198,"Mumbai, Maharashtra, India",Mumbai,Project Assistant,Assistant,Full-time,Entry level,61,Jet Airways,Airlines/Aviation ,10000+,288983.00
+J199,"Chennai, Tamil Nadu, India",Chennai,Petroleum Engineer,Engineer,Full-time,Entry level,108,Mahindra Truck and Bus,Automotive ,501 to 1000,54049.00
+J200,"Pune, Maharashtra, India",Pune,Team Assistant,Assistant,Full-time,Mid-Senior level,200,Siemens Energy,Renewables & Environment ,10000+,1044750.00
+J201,"Delhi, Delhi, India",Delhi,Need urgent driver,Driver,Full-time,Entry level,36,Uou,Marketing & Advertising ,101 to 200,137.00
+J202,"Gurgaon, Haryana, India",Gurgaon,Customer Care Executive,Customer Support,Full-time,Mid-Senior level,32,Cashify,Consumer Services ,501 to 1000,27232.00
+J203,"Pune, Maharashtra, India",Pune,Urgent Opening for Airport Ground Staff,Staff,Full-time,Executive,61,Airbov Solutions,Information Technology & Services ,11 to 50,272.00
+J204,"Chennai, Tamil Nadu, India",Chennai,IT SUPPORT,Customer Support,Full-time,Associate,7,Recruiting India,Staffing & Recruiting ,11 to 50,3948.00
+J205,"Bangalore Urban, Karnataka, India",Bengaluru,People Administrator,Admin,Full-time,Mid-Senior level,15,Stats Perform,Sports ,1001 to 5000,62051.00
+J206,"Delhi, Delhi, India",Delhi,Manual Tester,Tester,Full-time,Associate,46,HyrEzy Talent Solutions LLP,Staffing & Recruiting ,11 to 50,1865.00
+J207,"Delhi, Delhi, India",Delhi,Associate,Associate,Full-time,Entry level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J208,"Delhi, Delhi, India",Delhi,Associate - Gurgaon- Technology Consulting,Associate,Full-time,Entry level,127,PwC India,Management Consulting ,5001 to 10000,914515.00
+J209,"Hyderabad, Telangana, India",Hyderabad,Staff Accountant,Accountant,Full-time,Not given,44,UWorld,E-learning ,501 to 1000,49242.00
+J210,"Pune, Maharashtra, India",Pune,Financial Admin Assistant,Assistant,Full-time,Entry level,135,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J211,"Lucknow, Uttar Pradesh, India",Lucknow,Hr Executive,Recruiter,Full-time,Mid-Senior level,19,ShiningStars ITPL,Human Resources ,51 to 100,978.00
+J212,"Bengaluru, Karnataka, India",Bengaluru,Project Manager,Manager,Full-time,Mid-Senior level,200,Allstate India,Information Technology & Services ,5001 to 10000,100736.00
+J213,"Delhi, Delhi, India",Delhi,Project Manager,Manager,Full-time,Entry level,200,VMware,Computer Software ,10000+,1797512.00
+J214,"Chennai, Tamil Nadu, India",Chennai,Vice President - Project Execution,Vice President,Full-time,Executive,196,Antal International,Staffing & Recruiting ,1001 to 5000,609997.00
+J215,"Ahmedabad, Gujarat, India",Ahmedabad,HR Assistant,Assistant,Full-time,Entry level,10,Mspire HR Solutions (Unit of Mspire Ventures Private Limited),Staffing & Recruiting ,11 to 50,3242.00
+J216,"Bengaluru, Karnataka, India",Bengaluru,Quality Engineer (Manual),Engineer,Full-time,Entry level,200,CallHub,Computer Software ,11 to 50,33650.00
+J217,"Noida, Uttar Pradesh, India",Noida,Customer Service Representative,Customer Support,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J218,"Delhi, Delhi, India",Delhi,Civil Engineer,Engineer,Full-time,Not given,200,Mace,Construction ,5001 to 10000,365101.00
+J219,"Bengaluru, Karnataka, India",Bengaluru,Associate-Financial Accounting,Accountant,Full-time,Not given,200,Tesco Bengaluru,Retail ,5001 to 10000,205552.00
+J220,"Mumbai, Maharashtra, India",Mumbai,Product Development Manager- SUGAR Cosmetics,Manager,Full-time,Mid-Senior level,34,SUGAR Cosmetics,Cosmetics ,201 to 500,129066.00
+J221,"Lucknow, Uttar Pradesh, India",Lucknow,Zonal Sales,Sales,Full-time,Mid-Senior level,37,Acme Services,Human Resources ,51 to 100,79751.00
+J222,"Delhi, Delhi, India",Delhi,Furniture Carpenter,Carpenter,Full-time,Entry level,5,Rentickle,Computer Software ,51 to 100,15207.00
+J223,"Bengaluru, Karnataka, India",Bengaluru,Product Design Internship in Bangalore at Workex,Intern,Full-time,Internship,30,Workex,Human Resources ,51 to 100,20035.00
+J224,"Hyderabad, Telangana, India",Hyderabad,Executive HR Operations,Recruiter,Full-time,Mid-Senior level,10,Reckitt,Consumer Goods ,10000+,1109503.00
+J225,"Mumbai, Maharashtra, India",Mumbai,"Manager/ Senior Manager - Costing and Budgeting, Mumbai",Manager,Full-time,Mid-Senior level,200,Godrej Properties Limited,Real Estate ,1001 to 5000,419717.00
+J226,"Gurgaon, Haryana, India",Gurgaon,Brand Manager -PC,Manager,Full-time,Mid-Senior level,200,Dyson,Electrical & Electronic Manufacturing ,10000+,320902.00
+J227,"Gurgaon, Haryana, India",Gurgaon,"Account Director, LinkedIn Talent Solutions",Accountant,Full-time,Not given,141,LinkedIn,Computer Software ,10000+,24053189.00
+J228,"Pune, Maharashtra, India",Pune,Supply Chain Manager,Manager,Full-time,Mid-Senior level,200,Forms+Surfaces,Architecture & Planning ,501 to 1000,24498.00
+J229,"Gurgaon, Haryana, India",Gurgaon,Assistant Manager,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J230,"Pune, Maharashtra, India",Pune,Regional Manager - Sales (B2B),Sales,Full-time,Not given,200,Michelin,Automotive ,10000+,639220.00
+J231,"Pune, Maharashtra, India",Pune,Senior Finance Accountant,Accountant,Full-time,Mid-Senior level,200,SMS-Magic,Computer Software ,51 to 100,25159.00
+J232,"Hyderabad, Telangana, India",Hyderabad,Health Coach (Nurse),Nurse,Full-time,Associate,8,NanoHealth,"Health, Wellness & Fitness ",11 to 50,1123.00
+J233,"Hyderabad, Telangana, India",Hyderabad,Associate,Associate,Full-time,Entry level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J234,"Pune, Maharashtra, India",Pune,Looking for HR Recruiter in Pune,Recruiter,Full-time,Mid-Senior level,50,SevenMentor Pvt Ltd,Computer Software ,51 to 100,12571.00
+J235,"Gurgaon, Haryana, India",Gurgaon,Regional Safety and Security Manager,Manager,Full-time,Mid-Senior level,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J236,"Gurgaon, Haryana, India",Gurgaon,Executive - Invoicing,Executive,Full-time,Executive,149,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J237,"Gurgaon, Haryana, India",Gurgaon,Area Sales Manager,Manager,Full-time,Mid-Senior level,200,3M,Mechanical Or Industrial Engineering ,10000+,1974057.00
+J238,"Mumbai, Maharashtra, India",Mumbai,Frontend Developer,Developer,Full-time,Director,71,Truemeds India,Pharmaceuticals ,201 to 500,18589.00
+J239,India,Delhi,Talent Acquisition Lead - India,Recruiter,Full-time,Mid-Senior level,200,WarnerMedia,Entertainment ,10000+,639229.00
+J240,"Noida, Uttar Pradesh, India",Noida,Recruitment - Manager,Manager,Full-time,Mid-Senior level,200,Paytm,Financial Services ,10000+,1101711.00
+J241,"Pune, Maharashtra, India",Pune,Electrical Designer,Designer,Full-time,Associate,13,Brunel,Staffing & Recruiting ,10000+,494823.00
+J242,"Bengaluru, Karnataka, India",Bengaluru,Designer - Solidworks,Designer,Full-time,Entry level,17,SrinSoft Technologies,Information Technology & Services ,501 to 1000,14172.00
+J243,"Pune, Maharashtra, India",Pune,Design Engineer (CAD Draftsman),Engineer,Full-time,Entry level,70,Howden,Mechanical Or Industrial Engineering ,5001 to 10000,70131.00
+J244,"Pune, Maharashtra, India",Pune,CAD Draughtsman,Associate,Full-time,Entry level,25,SrinSoft Technologies,Information Technology & Services ,501 to 1000,14172.00
+J245,"Mumbai, Maharashtra, India",Mumbai,Manager,Manager,Full-time,Mid-Senior level,43,PwC India,Management Consulting ,5001 to 10000,914515.00
+J246,"Pune, Maharashtra, India",Pune,Engineer CAD,Engineer,Full-time,Entry level,200,Emerson,Mechanical Or Industrial Engineering ,10000+,790715.00
+J247,"Lucknow, Uttar Pradesh, India",Lucknow,Assistant Manager - Human Resources,Manager,Full-time,Director,200,Hyatt Regency,Hospitality ,10000+,374139.00
+J248,"New Delhi, Delhi, India",New Delhi,"Lead Product Marketing ( Full Time, Remote )",Marketing,Full-time,Mid-Senior level,79,Hike,Computer Software ,51 to 100,351786.00
+J249,"Gurgaon, Haryana, India",Gurgaon,Social Lead - INSWA,Head,Full-time,Mid-Senior level,200,The Coca-Cola Company,Food & Beverages ,10000+,7070166.00
+J250,"Chennai, Tamil Nadu, India",Chennai,Fresher Mechanical Engineer,Engineer,Full-time,Entry level,10,Spirale HR Solutions Pvt Ltd,Human Resources ,51 to 100,853.00
+J251,"Chennai, Tamil Nadu, India",Chennai,Web Designer,Designer,Full-time,Entry level,57,Cynosure Corporate Solutions,Staffing & Recruiting ,51 to 100,9066.00
+J252,"Pune, Maharashtra, India",Pune,Software Engineer-Test,Tester,Full-time,Associate,200,PhonePe,Computer Software ,1001 to 5000,524134.00
+J253,"Pune, Maharashtra, India",Pune,Hr Generalist,Generalist,Full-time,Mid-Senior level,53,Actualise Business Solutions,Human Resources ,11 to 50,3863.00
+J254,"Pune, Maharashtra, India",Pune,Junior Engineer,Engineer,Full-time,Associate,200,GE Aerospace,Aviation & Aerospace ,10000+,843672.00
+J255,"Pune, Maharashtra, India",Pune,Intern,Intern,Full-time,Internship,111,Cerence Inc.,Computer Software ,1001 to 5000,27194.00
+J256,"Chennai, Tamil Nadu, India",Chennai,Supplier Quality Assurance,Associate,Full-time,Mid-Senior level,200,Hyundai Motor India Ltd.,Automotive ,5001 to 10000,1084800.00
+J257,"Mumbai, Maharashtra, India",Mumbai,Manager / SR Consultant | Management Consulting,Manager,Full-time,Mid-Senior level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J258,"Maharashtra, India",Mumbai,Logistics Head,Head,Full-time,Director,73,MASTER MIND CONSULTANCY,Staffing & Recruiting ,11 to 50,4908.00
+J259,"Chennai, Tamil Nadu, India",Chennai,Data Analyst - Supply Chain,Analyst,Full-time,Not given,200,Logitech,Consumer Electronics ,5001 to 10000,228187.00
+J260,"Gurgaon, Haryana, India",Gurgaon,Manager,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J261,"Lucknow, Uttar Pradesh, India",Lucknow,General Manager - Marketing,Marketing,Full-time,Executive,164,The Phoenix Mills Ltd.,Real Estate ,501 to 1000,22470.00
+J262,"Gurgaon, Haryana, India",Gurgaon,Sr. Logistics Specialist,Specialist,Full-time,Mid-Senior level,200,Crocs,Consumer Goods ,1001 to 5000,61755.00
+J263,"Hyderabad, Telangana, India",Hyderabad,Associate - Hyderabad,Associate,Full-time,Mid-Senior level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J264,"Noida, Uttar Pradesh, India",Noida,Business Analyst,Analyst,Full-time,Mid-Senior level,200,Oracle,Information Technology & Services ,10000+,8577113.00
+J265,"Gurgaon, Haryana, India",Gurgaon,Accountant,Accountant,Full-time,Mid-Senior level,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J266,"Mumbai, Maharashtra, India",Mumbai,Financial Planning and Analysis,Analyst,Full-time,Mid-Senior level,7,Nium,Financial Services ,501 to 1000,122727.00
+J267,"Bengaluru, Karnataka, India",Bengaluru,Manager,Manager,Full-time,Mid-Senior level,31,PwC India,Management Consulting ,5001 to 10000,914515.00
+J268,"Chennai, Tamil Nadu, India",Chennai,React js,Developer,Full-time,Associate,37,CodeGama,Computer Software ,11 to 50,9089.00
+J269,"Mumbai, Maharashtra, India",Mumbai,Manager � Procurement,Manager,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J270,"Gurgaon, Haryana, India",Gurgaon,Budgeting & Costing,Accountant,Full-time,Not given,97,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J271,"Gurgaon, Haryana, India",Gurgaon,Assistant Manager-QA&TS,Manager,Full-time,Mid-Senior level,51,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J272,"Mumbai, Maharashtra, India",Mumbai,Manager/Senior Manager - Administration,Manager,Full-time,Mid-Senior level,200,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J273,"Lucknow, Uttar Pradesh, India",Lucknow,Staff Nurse,Nurse,Full-time,Mid-Senior level,6,Alliance Recruitment Agency,Human Resources ,51 to 100,15165.00
+J274,"Delhi, Delhi, India",Delhi,Assistant Manager - Central,Manager,Full-time,Not given,200,Flipkart,Computer Software ,10000+,3094261.00
+J275,"Mumbai, Maharashtra, India",Mumbai,Associate- Market Risk(Finance),Associate,Full-time,Not given,154,Morgan Stanley,Financial Services ,10000+,2398039.00
+J276,"Hyderabad, Telangana, India",Hyderabad,Manager,Manager,Full-time,Mid-Senior level,200,Genpact,Information Technology & Services ,10000+,2264446.00
+J277,"Chennai, Tamil Nadu, India",Chennai,Mechanical Design Engineer,Engineer,Full-time,Entry level,200,ZF Group,Automotive ,10000+,890111.00
+J278,"Mumbai, Maharashtra, India",Mumbai,Account Manager - Sales,Accountant,Full-time,Not given,193,Procter & Gamble,Consumer Goods ,10000+,7186774.00
+J279,"Mumbai, Maharashtra, India",Mumbai,Brand Executive,Executive,Full-time,Associate,200,Marico Limited,Consumer Goods ,1001 to 5000,556727.00
+J280,"Gurgaon, Haryana, India",Gurgaon,Assistant Manager,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J281,"Bengaluru, Karnataka, India",Bengaluru,Accountant,Accountant,Full-time,Entry level,200,Jet Airways,Airlines/Aviation ,10000+,288983.00
+J282,"Pune, Maharashtra, India",Pune,APAC Recruiter,Recruiter,Contract,Mid-Senior level,200,Capgemini,Information Technology & Services ,10000+,5198624.00
+J283,"Chennai, Tamil Nadu, India",Chennai,Supply Chain Consultant,Consultant,Full-time,Mid-Senior level,200,Tata Consultancy Services,Information Technology & Services ,10000+,11344528.00
+J284,Mumbai Metropolitan Region,Mumbai,Sales Manager -  CASA Acquisition,Manager,Full-time,Associate,168,IndusInd Bank,Banking ,10000+,979068.00
+J285,"Delhi, Delhi, India",Delhi,Area Sales Manager,Manager,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J286,"Delhi, Delhi, India",Delhi,Frontend Developer,Developer,Full-time,Entry level,47,Quadrangle,Human Resources ,51 to 100,9998.00
+J287,"Gurgaon, Haryana, India",Gurgaon,Senior Analyst � Digital & eCommerce,Analyst,Full-time,Mid-Senior level,200,The Coca-Cola Company,Food & Beverages ,10000+,7070166.00
+J288,"Mumbai, Maharashtra, India",Mumbai,Director of Sales India,Director,Full-time,Director,200,Spotify,Music ,5001 to 10000,3079803.00
+J289,"Sahibzada Ajit Singh Nagar, Punjab, India",Sahibzada Ajit Singh Nagar,React .Js Fresher,Developer,Full-time,Associate,10,SofSter,Information Technology & Services ,11 to 50,1448.00
+J290,"Pune, Maharashtra, India",Pune,Area Service Manager,Manager,Full-time,Mid-Senior level,52,Mahindra Group,Executive Office ,10000+,1071139.00
+J291,"Delhi, Delhi, India",Delhi,Sales Manager I - Meat Stores,Manager,Full-time,Mid-Senior level,200,Swiggy,Computer Software ,1001 to 5000,1212772.00
+J292,"Kochi, Kerala, India",Kochi,Photography/Videography Internship in Kochi at Spinny,Intern,Full-time,Internship,7,Spinny,Automotive ,1001 to 5000,138178.00
+J293,"Pune, Maharashtra, India",Pune,Finance Analyst,Analyst,Full-time,Entry level,10,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J294,"Pune, Maharashtra, India",Pune,SAP MM Consultant,Consultant,Full-time,Mid-Senior level,200,Infosys,Information Technology & Services ,10000+,6467437.00
+J295,"Bengaluru, Karnataka, India",Bengaluru,Senior Project Manager,Manager,Full-time,Mid-Senior level,200,Unilever,Consumer Goods ,10000+,18229634.00
+J296,"Mumbai, Maharashtra, India",Mumbai,Medical Representative,Representative,Full-time,Entry level,16,OASIS - HR CONSULTANT,Human Resources ,11 to 50,22077.00
+J297,"Mumbai, Maharashtra, India",Mumbai,Assistant Brand Manager,Manager,Full-time,Mid-Senior level,200,Unilever,Consumer Goods ,10000+,18229634.00
+J298,"Pune, Maharashtra, India",Pune,Manufacturing Engineer,Engineer,Full-time,Entry level,151,Mahindra Group,Executive Office ,10000+,1071139.00
+J299,"Alipur, Delhi, India",Alipur,Empregado Refeit�rio (M/F) Valen�a,Associate,Full-time,Entry level,10,ITAU,Restaurants ,1001 to 5000,6461.00
+J300,"Noida, Uttar Pradesh, India",Noida,Work from Home- Voice Assistant,Assistant,Full-time,Entry level,200,Tech Mahindra,Information Technology & Services ,10000+,3917491.00
+J301,"Gurgaon, Haryana, India",Gurgaon,Executive Crew Planning,Executive,Full-time,Entry level,152,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J302,"Mumbai, Maharashtra, India",Mumbai,Sales Trainee,Intern,Full-time,Mid-Senior level,60,Mahindra Holidays & Resorts India Limited,Hospitality ,10000+,116062.00
+J303,"Delhi, Delhi, India",Delhi,Director of Finance,Director,Full-time,Director,200,Hyatt Regency,Hospitality ,10000+,374139.00
+J304,"Noida, Uttar Pradesh, India",Noida,Analyst,Analyst,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J305,"Bengaluru, Karnataka, India",Bengaluru,Quality Specialist,Specialist,Full-time,Entry level,200,PhonePe,Computer Software ,1001 to 5000,524134.00
+J306,"Pune, Maharashtra, India",Pune,Purchasing Manager,Manager,Full-time,Not given,10,"KSB Limited, UK",Mechanical Or Industrial Engineering ,51 to 100,8677.00
+J307,"Lucknow, Uttar Pradesh, India",Lucknow,Customer Support Executive,Executive,Full-time,Mid-Senior level,20,eFeed,Farming ,101 to 200,1562.00
+J308,"Ahmedabad, Gujarat, India",Ahmedabad,Jr. Human Resource,Recruiter,Full-time,Entry level,200,Paperclip Design,Design ,101 to 200,2305.00
+J309,"Mumbai, Maharashtra, India",Mumbai,"Store Manager, Mumbai",Manager,Full-time,Mid-Senior level,200,Bulgari,Luxury Goods & Jewelry ,1001 to 5000,739321.00
+J310,"Delhi, Delhi, India",Delhi,Specialist - Gurgaon- DS&O (Deals Strategy & Operations),Specialist,Full-time,Mid-Senior level,176,PwC India,Management Consulting ,5001 to 10000,914515.00
+J311,"Noida, Uttar Pradesh, India",Noida,Environmental Engineer,Engineer,Full-time,Entry level,137,Pollucon Technologies Limited,Construction ,51 to 100,344.00
+J312,"Chennai, Tamil Nadu, India",Chennai,Mechanical Technician,Technician,Full-time,Entry level,20,ShiningStars ITPL,Human Resources ,51 to 100,978.00
+J313,"Gurgaon, Haryana, India",Gurgaon,Executive,Executive,Full-time,Executive,200,KPMG India,Management Consulting ,10000+,1401090.00
+J314,"Chennai, Tamil Nadu, India",Chennai,Hiring for AR Callers !!,Recruiter,Full-time,Entry level,1,Softone HR Solutions,Staffing & Recruiting ,11 to 50,3802.00
+J315,"Lucknow, Uttar Pradesh, India",Lucknow,Zonal Sales Manager (Lucknow),Manager,Full-time,Mid-Senior level,45,Mee 2 Bee Smart Services Pvt. Ltd.,Management Consulting ,101 to 200,4856.00
+J316,"Delhi, Delhi, India",Delhi,Electrician,Electrician,Full-time,Entry level,28,High Street Essentials,Retail ,501 to 1000,676.00
+J317,"Mumbai, Maharashtra, India",Mumbai,Associate,Associate,Full-time,Entry level,174,PwC India,Management Consulting ,5001 to 10000,914515.00
+J318,"Mumbai, Maharashtra, India",Mumbai,Manager - Project Maintenance,Manager,Full-time,Entry level,200,Godrej Group,Consumer Goods ,10000+,278190.00
+J319,"Pune, Maharashtra, India",Pune,Civil - Trainee Design Engineer,Engineer,Full-time,Internship,200,Indovance Inc.,Outsourcing/Offshoring ,201 to 500,11020.00
+J320,"Ahmedabad, Gujarat, India",Ahmedabad,Project Engineer - (Civil),Engineer,Full-time,Entry level,200,PeopleTree Knowledge Services Pvt. Ltd.,Information Technology & Services ,51 to 100,2939.00
+J321,"Mumbai, Maharashtra, India",Mumbai,Business Manager,Manager,Full-time,Director,200,Tata Trusts,Non-profit Organization Management ,201 to 500,131544.00
+J322,"Bengaluru, Karnataka, India",Bengaluru,Customer Relationship Executive - Bangalore,Customer Support,Contract,Mid-Senior level,34,Aditya Birla Finance Limited,Financial Services ,1001 to 5000,55446.00
+J323,"Bengaluru, Karnataka, India",Bengaluru,Acquisition Marketing Manager,Manager,Full-time,Not given,200,LinkedIn,Computer Software ,10000+,24053189.00
+J324,"Mumbai, Maharashtra, India",Mumbai,Customer Support Executive,Executive,Full-time,Mid-Senior level,20,PayU,Financial Services ,1001 to 5000,184462.00
+J325,"Gurgaon, Haryana, India",Gurgaon,Executive crew control and logistics,Executive,Full-time,Entry level,110,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J326,"Ahmedabad, Gujarat, India",Ahmedabad,Operator - Manufacturing,Operator,Full-time,Entry level,6,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J327,"Mumbai, Maharashtra, India",Mumbai,Intern - HR Operations,Intern,Internship,Internship,200,ZEE5,Entertainment ,201 to 500,143935.00
+J328,"Ahmedabad, Gujarat, India",Ahmedabad,PM/PMO,Associate,Full-time,Mid-Senior level,22,Stridely Solutions,Information Technology & Services ,201 to 500,21914.00
+J329,"Ahmedabad, Gujarat, India",Ahmedabad,Front Desk/Admin,Admin,Full-time,Entry level,12,Stridely Solutions,Information Technology & Services ,201 to 500,21914.00
+J330,"Pune, Maharashtra, India",Pune,Trainer & Content Manager,Manager,Full-time,Mid-Senior level,2,SkillSphere Education,Education Management ,11 to 50,696.00
+J331,"Hyderabad, Telangana, India",Hyderabad,Store Manager - Retail (3-5 yrs),Manager,Full-time,Mid-Senior level,52,Urban Ladder,Computer Software ,501 to 1000,83566.00
+J332,"Lucknow, Uttar Pradesh, India",Lucknow,Manager-Regional Rural Sales,Manager,Full-time,Mid-Senior level,55,Mahindra Group,Executive Office ,10000+,1071139.00
+J333,"Ahmedabad, Gujarat, India",Ahmedabad,Site Supervisor,Supervisor,Full-time,Mid-Senior level,101,Flipspaces,Design ,51 to 100,26542.00
+J334,"Delhi, Delhi, India",Delhi,Director of Operation,Director,Full-time,Director,200,ANdAZ,Hospitality ,10000+,20695.00
+J335,"Mumbai, Maharashtra, India",Mumbai,Logistics Manager,Manager,Full-time,Mid-Senior level,200,Reckitt,Consumer Goods ,10000+,1109503.00
+J336,"Chennai, Tamil Nadu, India",Chennai,Head - Manufacturing - Vehicle Assembly,Head,Full-time,Director,86,Inspire consultancy services pvt. ltd,Human Resources ,11 to 50,567.00
+J337,"Pune, Maharashtra, India",Pune,Frontend Developer,Developer,Full-time,Entry level,200,3DEXCITE,Marketing & Advertising ,501 to 1000,26429.00
+J338,"Hyderabad, Telangana, India",Hyderabad,Accounts Receivable Analyst [T500-5812],Analyst,Full-time,Mid-Senior level,200,PepsiCo,Food & Beverages ,10000+,6909195.00
+J339,"Gurgaon, Haryana, India",Gurgaon,Executive,Executive,Full-time,Executive,200,KPMG India,Management Consulting ,10000+,1401090.00
+J340,"Mumbai, Maharashtra, India",Mumbai,HRBP,Recruiter,Full-time,Director,41,Reliance Jio Infocom Limited,Electrical & Electronic Manufacturing ,101 to 200,42081.00
+J341,"Varanasi, Uttar Pradesh, India",Varanasi,Medical Sales Representative,sales,Full-time,Entry level,21,EEPIC Management,Human Resources ,11 to 50,916.00
+J342,India,Noida,Head of Customer Service,Customer Support,Full-time,Director,200,Cactus Communications,Computer Software ,1001 to 5000,494454.00
+J343,"Kakori, Uttar Pradesh, India",Kakori,Field Sales Development Manager- TrueValue,Manager,Full-time,Mid-Senior level,200,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J344,"Salem, Tamil Nadu, India",Salem,Kitchen Staff Substitute,Staff,Part-time,Entry level,10,Opaa! Food Management,Food & Beverages ,1001 to 5000,1629.00
+J345,"Bengaluru, Karnataka, India",Bengaluru,Financial Analyst,Analyst,Full-time,Not given,200,HP,Information Technology & Services ,10000+,5143704.00
+J346,"Pune, Maharashtra, India",Pune,Financial Accountant,Accountant,Full-time,Not given,200,UBS,Financial Services ,10000+,1252029.00
+J347,"Bengaluru, Karnataka, India",Bengaluru,Customer Support Executive,Customer Support,Full-time,Not given,200,Infosys BPM,Information Technology & Services ,10000+,779454.00
+J348,"Kolkata, West Bengal, India",Kolkata,UI-UX Designer,Designer,Full-time,Entry level,93,Godrej Infotech Ltd,Information Technology & Services ,501 to 1000,24045.00
+J349,"Chennai, Tamil Nadu, India",Chennai,AVP - Maintenance/Engineering - FMCG,Engineer,Full-time,Entry level,25,People Connect Placements Pvt Ltd,Staffing & Recruiting ,11 to 50,13223.00
+J350,"Pune, Maharashtra, India",Pune,Sales Manager,sales,Full-time,Director,105,Hyatt Regency,Hospitality ,10000+,374139.00
+J351,"Pune, Maharashtra, India",Pune,Graduate Analyst,Analyst,Full-time,Associate,44,Barclays,Financial Services ,10000+,1306895.00
+J352,"Bengaluru, Karnataka, India",Bengaluru,Senior Executive Finance,Executive,Full-time,Mid-Senior level,200,Unilever,Consumer Goods ,10000+,18229634.00
+J353,"Lucknow, Uttar Pradesh, India",Lucknow,Quality Assurance,Tester,Full-time,Mid-Senior level,9,e.Soft Technologies Pvt Ltd,Information Technology & Services ,201 to 500,11417.00
+J354,"Gurgaon, Haryana, India",Gurgaon,Executive- Social Media,Executive,Full-time,Mid-Senior level,200,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J355,"Ahmedabad, Gujarat, India",Ahmedabad,Regional Customer Manager,Manager,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J356,"Lucknow, Uttar Pradesh, India",Lucknow,Credit Manager,Manager,Full-time,Associate,183,Fastline Global Recruitment Services,Staffing & Recruiting ,51 to 100,7639.00
+J357,"Pune, Maharashtra, India",Pune,Key Account Manage- Sales (B2B),Accountant,Full-time,Not given,74,Michelin,Automotive ,10000+,639220.00
+J358,"Ahmedabad, Gujarat, India",Ahmedabad,Quality Engineer,Engineer,Full-time,Entry level,200,Kaivanya Extrusion Technik,Mechanical Or Industrial Engineering ,11 to 50,2298.00
+J359,"Ahmedabad, Gujarat, India",Ahmedabad,Talent Acquisition,Recruiter,Full-time,Entry level,24,Stridely Solutions,Information Technology & Services ,201 to 500,21914.00
+J360,"Ahmedabad, Gujarat, India",Ahmedabad,HR Executive,Recruiter,Full-time,Not given,54,Technous Infotech,Information Technology & Services ,51 to 100,406.00
+J361,"Mumbai, Maharashtra, India",Mumbai,Data Analyst,Analyst,Full-time,Not given,200,UBS,Financial Services ,10000+,1252029.00
+J362,"Bengaluru, Karnataka, India",Bengaluru,Urgent | Job Opening for FRESHERS Human Resources Executive - Work From Office,Recruiter,Full-time,Mid-Senior level,93,Onjob Group,Human Resources ,51 to 100,500.00
+J363,"Chennai, Tamil Nadu, India",Chennai,Accounts Payable,Accountant,Full-time,Entry level,181,Calibehr Business Support Services Pvt. Ltd.,Information Technology & Services ,10000+,10450.00
+J364,"Gurgaon, Haryana, India",Gurgaon,Customer Support Executive,Customer Support,Full-time,Mid-Senior level,10,Cashify,Consumer Services ,501 to 1000,27232.00
+J365,"Surat, Gujarat, India",Surat,Photography/Videography Internship in Surat at Spinny,Intern,Full-time,Internship,5,Spinny,Automotive ,1001 to 5000,138178.00
+J366,"Mumbai, Maharashtra, India",Mumbai,Manager,Manager,Full-time,Mid-Senior level,177,PwC India,Management Consulting ,5001 to 10000,914515.00
+J367,"Delhi, Delhi, India",Delhi,Associate - Gurgaon - Technology Consulting,Associate,Full-time,Entry level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J368,"Mumbai, Maharashtra, India",Mumbai,Linux Administrator,Admin,Full-time,Entry level,66,Godrej Infotech Ltd,Information Technology & Services ,501 to 1000,24045.00
+J369,"Pune, Maharashtra, India",Pune,Financial Admin Assistant,Assistant,Full-time,Entry level,139,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J370,"Mumbai, Maharashtra, India",Mumbai,Quality Assurance - (Manual Tester),Tester,Full-time,Mid-Senior level,41,Truemeds India,Pharmaceuticals ,201 to 500,18589.00
+J371,"Lucknow, Uttar Pradesh, India",Lucknow,Urgent Hiring for Ground Staff Job,Staff,Full-time,Executive,48,Airbov Solutions,Information Technology & Services ,11 to 50,272.00
+J372,Greater Chennai Area,Chennai,Cluster Manager,Manager,Full-time,Mid-Senior level,40,Dyson,Electrical & Electronic Manufacturing ,10000+,320902.00
+J373,"Ahmedabad, Gujarat, India",Ahmedabad,Legal Manager,Manager,Full-time,Mid-Senior level,200,ICICI Lombard,Insurance ,5001 to 10000,177589.00
+J374,"Ahmedabad, Gujarat, India",Ahmedabad,Telecaller,Telecaller,Full-time,Entry level,10,eGovernance,Information Technology & Services ,11 to 50,378.00
+J375,"Pune, Maharashtra, India",Pune,Financial Admin Assistant,Assistant,Full-time,Entry level,105,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J376,"Bengaluru, Karnataka, India",Bengaluru,Buyer,Buyer,Full-time,Not given,116,ABB,Electrical & Electronic Manufacturing ,10000+,2933382.00
+J377,"Bengaluru, Karnataka, India",Bengaluru,Frontend Developer,Developer,Full-time,Entry level,151,WisdmLabs,Information Technology & Services ,51 to 100,6917.00
+J378,"Bengaluru, Karnataka, India",Bengaluru,Software Testing Internship in Bangalore at Euphotic Labs Private Limited,Intern,Full-time,Internship,30,Pine Labs,Information Technology & Services ,1001 to 5000,130565.00
+J379,"Hyderabad, Telangana, India",Hyderabad,Analyst - Analytics & Behavioral Insights,Analyst,Full-time,Not given,200,Deloitte,Management Consulting ,10000+,11242133.00
+J380,"Hyderabad, Telangana, India",Hyderabad,Business Analyst,Analyst,Full-time,Not given,200,Deloitte,Management Consulting ,10000+,11242133.00
+J381,"Delhi, Delhi, India",Delhi,Hr Officer,Recruiter,Full-time,Entry level,47,SMC Global Securities Ltd.,Investment Banking ,1001 to 5000,3333.00
+J382,"Delhi, Delhi, India",Delhi,Manager,Manager,Full-time,Mid-Senior level,10,PwC India,Management Consulting ,5001 to 10000,914515.00
+J383,"Bengaluru, Karnataka, India",Bengaluru,Product Intern,Intern,Full-time,Internship,43,Volopay,Computer Software ,51 to 100,21688.00
+J384,"Pune, Maharashtra, India",Pune,HR Executive,Recruiter,Full-time,Mid-Senior level,200,Indovance Inc.,Outsourcing/Offshoring ,201 to 500,11020.00
+J385,"Bengaluru, Karnataka, India",Bengaluru,Associate,Associate,Full-time,Entry level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J386,"Lucknow, Uttar Pradesh, India",Lucknow,Category Manager,Manager,Full-time,Mid-Senior level,200,Urban Company,Computer Software ,1001 to 5000,308121.00
+J387,"Ahmedabad, Gujarat, India",Ahmedabad,Accountant,Accountant,Full-time,Mid-Senior level,11,Jain Dairy,Dairy ,51 to 100,131.00
+J388,"Chennai, Tamil Nadu, India",Chennai,Software Engineer - Entry Level - Java,Engineer,Full-time,Entry level,170,Xybion Digital,Computer Software ,201 to 500,16503.00
+J389,"Mumbai, Maharashtra, India",Mumbai,Executive Assistant to MD,Assistant,Full-time,Mid-Senior level,42,Acme Services,Human Resources ,51 to 100,79751.00
+J390,"Hyderabad, Telangana, India",Hyderabad,hiring for QA - QMS,Tester,Full-time,Entry level,67,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J391,"Mumbai, Maharashtra, India",Mumbai,Data Analyst,Analyst,Full-time,Associate,45,Experian,Information Services ,10000+,512129.00
+J392,"Pune, Maharashtra, India",Pune,Financial Admin Assistant,Assistant,Full-time,Entry level,90,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J393,"Chennai, Tamil Nadu, India",Chennai,Office Administrator,Admin,Full-time,Associate,94,Hexr Factory,Information Technology & Services ,11 to 50,1342.00
+J394,"Bengaluru, Karnataka, India",Bengaluru,Customer Support,Customer Support,Contract,Mid-Senior level,200,Infosys BPM,Information Technology & Services ,10000+,779454.00
+J395,"Gurgaon, Haryana, India",Gurgaon,Assistant Manager,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J396,"Mumbai, Maharashtra, India",Mumbai,Order Processing India,Executive,Full-time,Entry level,68,Varian,Medical Device ,5001 to 10000,235925.00
+J397,"Lucknow, Uttar Pradesh, India",Lucknow,Key Accounts Manager - Deputy Manager,Accountant,Full-time,Mid-Senior level,200,Paytm,Financial Services ,10000+,1101711.00
+J398,"Lucknow, Uttar Pradesh, India",Lucknow,Human Resources (HR) Internship in Lucknow at Ziqitza Health Care Limited (ZHL),Recruiter,Full-time,Internship,10,Ziqitza HealthCare Ltd.,Hospital & Health Care ,501 to 1000,6401.00
+J399,"Lucknow, Uttar Pradesh, India",Lucknow,Urgent Hiring !! -HR (Recruiter) | Lucknow,Recruiter,Full-time,Mid-Senior level,12,Parsley Management Pvt.Ltd,Staffing & Recruiting ,11 to 50,1374.00
+J400,"Ahmedabad, Gujarat, India",Ahmedabad,Junior Research Analyst,Analyst,Full-time,Not given,200,S&P Global,Financial Services ,10000+,302681.00
+J401,"Mumbai, Maharashtra, India",Mumbai,Talent Acquisition Manager,Manager,Full-time,Mid-Senior level,200,Purplle.com,Computer Software ,501 to 1000,256500.00
+J402,"Lucknow, Uttar Pradesh, India",Lucknow,Front Office Executive,Executive,Full-time,Entry level,16,Parsley Management Pvt.Ltd,Staffing & Recruiting ,11 to 50,1374.00
+J403,"Kolkata, West Bengal, India",Kolkata,Factory/Plant Head - Chemical,Head,Full-time,Director,5,Rural Management Consultant Pvt.Ltd.,Staffing & Recruiting ,11 to 50,3328.00
+J404,"Pune, Maharashtra, India",Pune,BIM Modelers - Architectural BIM Modeler,Assistant,Full-time,Entry level,24,SrinSoft Technologies,Information Technology & Services ,501 to 1000,14172.00
+J405,"Ahmedabad, Gujarat, India",Ahmedabad,Specialist,Specialist,Full-time,Mid-Senior level,113,PwC India,Management Consulting ,5001 to 10000,914515.00
+J406,"Gurgaon, Haryana, India",Gurgaon,HR Generalist (Mid-Level),Generalist,Full-time,Associate,68,vCommission Media Private Limited,Marketing & Advertising ,51 to 100,6876.00
+J407,"Chennai, Tamil Nadu, India",Chennai,Data Analyst  ( Google Analytics),Analyst,Full-time,Mid-Senior level,200,LatentView Analytics,Management Consulting ,501 to 1000,90702.00
+J408,"Mumbai, Maharashtra, India",Mumbai,Associate Technology Consulting,Associate,Full-time,Entry level,10,PwC India,Management Consulting ,5001 to 10000,914515.00
+J409,"Kakori, Uttar Pradesh, India",Kakori,Delivery Boy,Delivery Boy,Part-time,Entry level,10,OkayGo,Staffing & Recruiting ,11 to 50,20818.00
+J410,"Hyderabad, Telangana, India",Hyderabad,Technology Support - Analyst,Analyst,Full-time,Not given,200,Deloitte,Management Consulting ,10000+,11242133.00
+J411,"Mumbai, Maharashtra, India",Mumbai,Associate - Deals - Deals Strategy- Mumbai,Associate,Full-time,Entry level,200,PwC India,Management Consulting ,5001 to 10000,914515.00
+J412,"Lucknow, Uttar Pradesh, India",Lucknow,Technical Support Engineer,Executive,Full-time,Not given,170,Tata Group,Executive Office ,10000+,1974783.00
+J413,"Chennai, Tamil Nadu, India",Chennai,Engineer - Mechanical Development CoE,Engineer,Full-time,Entry level,200,Mahindra Group,Executive Office ,10000+,1071139.00
+J414,"Gurgaon, Haryana, India",Gurgaon,"Manager, Partner Regional Operations",Manager,Full-time,Mid-Senior level,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J415,"Mumbai, Maharashtra, India",Mumbai,Trainee - Branded Content,Intern,Full-time,Internship,70,BookMyShow,Entertainment ,1001 to 5000,86468.00
+J416,"Delhi, Delhi, India",Delhi,packing boy,Staff,Full-time,Entry level,18,BMC,Medical Device ,201 to 500,2907.00
+J417,"Chennai, Tamil Nadu, India",Chennai,Ground Staff,Staff,Full-time,Entry level,200,Jet Airways,Airlines/Aviation ,10000+,288983.00
+J418,"Gurgaon, Haryana, India",Gurgaon,Executive,Executive,Full-time,Executive,200,KPMG India,Management Consulting ,10000+,1401090.00
+J419,"Gurgaon, Haryana, India",Gurgaon,Supervisor Claims,Supervisor,Full-time,Associate,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J420,"Bengaluru East, Karnataka, India",Bengaluru,Analyst,Analyst,Full-time,Mid-Senior level,192,Commonwealth Bank,Financial Services ,10000+,431149.00
+J421,"Pune, Maharashtra, India",Pune,Manager,Manager,Full-time,Mid-Senior level,80,Mahindra Logistics,Transportation/Trucking/Railroad ,10000+,281197.00
+J422,"Noida, Uttar Pradesh, India",Noida,Digital Marketing - Associate,Associate,Full-time,Entry level,200,Paytm,Financial Services ,10000+,1101711.00
+J423,"Lucknow, Uttar Pradesh, India",Lucknow,Job Interview For Cabin Crew and Ground Staff at Airport,Staff,Full-time,Entry level,107,Nilo P Services,Information Technology & Services ,11 to 50,173.00
+J424,"Chennai, Tamil Nadu, India",Chennai,Interior,Designer,Full-time,Not given,2,VEGA Intellisoft Pvt Ltd,Information Technology & Services ,501 to 1000,9593.00
+J425,"Chennai, Tamil Nadu, India",Chennai,Civil Engineer,Engineer,Full-time,Entry level,40,Talent Zone Consultant,Human Resources ,11 to 50,2872.00
+J426,Greater Madurai Area,Madurai,Head Of Flight Operation,Head,Full-time,Mid-Senior level,12,Airbus,Aviation & Aerospace ,10000+,1777475.00
+J427,"Gurgaon, Haryana, India",Gurgaon,Executive-Customer Relations,Executive,Full-time,Mid-Senior level,200,IndiGo (InterGlobe Aviation Ltd),Airlines/Aviation ,10000+,392177.00
+J428,"Mumbai, Maharashtra, India",Mumbai,Trainee - Customer Experience,Intern,Full-time,Internship,80,BookMyShow,Entertainment ,1001 to 5000,86468.00
+J429,"Bengaluru, Karnataka, India",Bengaluru,CAD Draughtsman,Associate,Full-time,Entry level,21,SrinSoft Technologies,Information Technology & Services ,501 to 1000,14172.00
+J430,"Pune, Maharashtra, India",Pune,Mechanical Engineer,Engineer,Full-time,Not given,200,JBM Group,Automotive ,10000+,121778.00
+J431,"Bengaluru, Karnataka, India",Bengaluru,Product Analyst,Analyst,Full-time,Mid-Senior level,200,Cashfree Payments,Financial Services ,201 to 500,83680.00
+J432,"Mumbai, Maharashtra, India",Mumbai,Assistant Relationship Manager,Manager,Full-time,Entry level,173,American Express,Financial Services ,10000+,1776398.00
+J433,"Ahmedabad, Gujarat, India",Ahmedabad,DMart - Area Manager - Stores,Manager,Full-time,Mid-Senior level,200,DMart - Avenue Supermarts Ltd,Retail ,5001 to 10000,117464.00
+J434,"Lucknow, Uttar Pradesh, India",Lucknow,Human Resources Officer,Recruiter,Full-time,Entry level,200,Hyatt Regency,Hospitality ,10000+,374139.00
+J435,"Delhi, Delhi, India",Delhi,General Manager - Manufacturing - Automobile,Manager,Full-time,Executive,53,Inspire consultancy services pvt. ltd,Human Resources ,11 to 50,567.00
+J436,"Ahmedabad, Gujarat, India",Ahmedabad,Firstcry.com - Retail Trainer/Regional Trainer,Trainer,Full-time,Mid-Senior level,22,FirstCry.com (BrainBees Solutions Pvt. Ltd.),Retail ,5001 to 10000,57369.00
+J437,"Noida, Uttar Pradesh, India",Noida,Learning and Development,Executive,Full-time,Associate,200,Samsung India,Consumer Electronics ,10000+,129681.00
+J438,"Bengaluru, Karnataka, India",Bengaluru,Assistant Events Marketing Manager,marketing,Full-time,Not given,200,LinkedIn,Computer Software ,10000+,24053189.00
+J439,"Hyderabad, Telangana, India",Hyderabad,Trade Marketing Manager,marketing,Full-time,Associate,200,MTR Foods Private Limited,Food & Beverages ,1001 to 5000,251313.00
+J440,"Noida, Uttar Pradesh, India",Noida,Bank Officer,Officer,Full-time,Entry level,10,Kaizen Consultancy,#VALUE!,101 to 200,118.00
+J441,"Hyderabad, Telangana, India",Hyderabad,Developer Specialist - Front End Development,Developer,Full-time,Entry level,14,Google Operations Center,Internet ,1001 to 5000,71638.00
+J442,"Gurgaon, Haryana, India",Gurgaon,Accountant,Accountant,Full-time,Mid-Senior level,200,Airbnb,Computer Software ,5001 to 10000,2219932.00
+J443,"Delhi, Delhi, India",Delhi,Senior Associate,Associate,Full-time,Mid-Senior level,10,PwC India,Management Consulting ,5001 to 10000,914515.00
+J444,"Mumbai, Maharashtra, India",Mumbai,Senior Brand Manager,Manager,Full-time,Mid-Senior level,200,Purplle.com,Computer Software ,501 to 1000,256500.00
+J445,"Pune, Maharashtra, India",Pune,Full Time Phlebotomist,Phlebotomist,Full-time,Entry level,13,Actalent,Management Consulting ,5001 to 10000,104242.00
+J446,"Mumbai, Maharashtra, India",Mumbai,"HR Officer - Mumbai, India",Recruiter,Full-time,Entry level,200,Qatar Airways,Airlines/Aviation ,10000+,1892735.00
+J447,"Gurgaon, Haryana, India",Gurgaon,"Manager, Finance - Operations",Manager,Full-time,Mid-Senior level,200,The Coca-Cola Company,Food & Beverages ,10000+,7070166.00
+J448,"Lucknow, Uttar Pradesh, India",Lucknow,"PGT Chemistry Teacher required for a reputed school in Lucknow, Uttar Pradesh",Teacher,Full-time,Entry level,42,EducoHire,Education Management ,101 to 200,9592.00
+J449,India,Bengaluru,IT Helpdesk & Developer,Developer,Full-time,Mid-Senior level,5,Long Shine Equipment & Supplies Pte Ltd,Business Supplies & Equipment ,101 to 200,486.00
+J450,"Bengaluru, Karnataka, India",Bengaluru,Assistant Manager - Value Management,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J451,"Lucknow, Uttar Pradesh, India",Lucknow,Regional Manager - Human Resource - Insurance,Manager,Full-time,Mid-Senior level,30,Liontree HR Consultants Pvt Ltd,Human Resources ,11 to 50,5162.00
+J452,"Bengaluru, Karnataka, India",Bengaluru,Terminal Manager,Manager,Full-time,Not given,45,Shell,Oil & Energy ,10000+,6057750.00
+J453,"Ahmedabad, Gujarat, India",Ahmedabad,Staff Manufacturing,Staff,Full-time,Entry level,10,CADILA HEALTHCARE LTD,Pharmaceuticals ,201 to 500,8539.00
+J454,"Gurgaon, Haryana, India",Gurgaon,Customer Service Analyst,Customer Support,Full-time,Entry level,200,American Express,Financial Services ,10000+,1776398.00
+J455,"Mumbai, Maharashtra, India",Mumbai,Airport Ground Staff,Staff,Full-time,Executive,71,Airbov Solutions,Information Technology & Services ,11 to 50,272.00
+J456,"Noida, Uttar Pradesh, India",Noida,Area Sales Manager - EV,Manager,Full-time,Mid-Senior level,200,Mahindra Group,Executive Office ,10000+,1071139.00
+J457,"Ahmedabad, Gujarat, India",Ahmedabad,Area Sales Manager,Manager,Full-time,Not given,200,Johnson & Johnson,Hospital & Health Care ,10000+,8167304.00
+J458,"Ahmedabad, Gujarat, India",Ahmedabad,Content Writer,Content Writer,Full-time,Entry level,4,Bacancy Technology: Work From Anywhere,Computer Software ,1001 to 5000,39200.00
+J459,"Mumbai, Maharashtra, India",Mumbai,HR Business Partner,Partner,Full-time,Mid-Senior level,200,Nayara Energy,Oil & Energy ,1001 to 5000,207082.00
+J460,"Pune, Maharashtra, India",Pune,Procurement Buyer I,Buyer,Full-time,Entry level,135,Honeywell,Electrical & Electronic Manufacturing ,10000+,2276917.00
+J461,"Chennai, Tamil Nadu, India",Chennai,Bancassurance officer,Officer,Full-time,Entry level,10,assured job,#VALUE!,101 to 200,2044.00
+J462,"Lucknow, Uttar Pradesh, India",Lucknow,Aerospace Engineer,Engineer,Full-time,Entry level,10,CodersBrain,Information Technology & Services ,201 to 500,43937.00
+J463,"Chennai, Tamil Nadu, India",Chennai,Innovation Consultant,Consultant,Full-time,Mid-Senior level,200,Tata Consultancy Services,Information Technology & Services ,10000+,11344528.00
+J464,"Gurgaon, Haryana, India",Gurgaon,Content Creator,Creator,Full-time,Entry level,2,Birdeye,Computer Software ,201 to 500,147326.00
+J465,"Hyderabad, Telangana, India",Hyderabad,Assistant Project Manager (PMO),Manager,Full-time,Mid-Senior level,85,Space Matrix,Design ,501 to 1000,115606.00
+J466,"Gurgaon, Haryana, India",Gurgaon,Manager,Manager,Full-time,Mid-Senior level,200,KPMG India,Management Consulting ,10000+,1401090.00
+J467,"Chennai, Tamil Nadu, India",Chennai,Procurement Executive,Executive,Full-time,Mid-Senior level,87,Talent Corner HR Services Pvt Ltd,Management Consulting ,51 to 100,123091.00
+J468,"Gurgaon, Haryana, India",Gurgaon,"AM Customer Service , MBC",Customer Support,Full-time,Not given,200,adidas,Retail ,10000+,3159040.00
+J469,"Bengaluru, Karnataka, India",Bengaluru,Photography/Videography Internship in Bangalore at Spinny,Intern,Full-time,Internship,10,Spinny,Automotive ,1001 to 5000,138178.00
+J470,"Gurgaon, Haryana, India",Gurgaon,Paint Engineer,Engineer,Full-time,Entry level,125,Maruti Suzuki India Limited,Automotive ,10000+,633905.00
+J471,"Lucknow, Uttar Pradesh, India",Lucknow,Stone Business Development Executive,Executive,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J472,"Hyderabad, Telangana, India",Hyderabad,Test Engineer - Manual/API Testing,Tester,Full-time,Entry level,26,Techfynder,Computer Software ,201 to 500,14924.00
+J473,"Amritsar, Punjab, India",Amritsar,Mechanical Engineer,Engineer,Full-time,Entry level,82,Jet Airways,Airlines/Aviation ,10000+,288983.00
+J474,"Bengaluru, Karnataka, India",Bengaluru,Data Analyst,Analyst,Full-time,Not given,200,Shell,Oil & Energy ,10000+,6057750.00
+J475,"Pune, Maharashtra, India",Pune,Financial Admin Assistant,Assistant,Full-time,Entry level,121,UPS,Transportation/Trucking/Railroad ,10000+,1614205.00
+J476,"Lucknow, Uttar Pradesh, India",Lucknow,General Manager - International Sales and Marketing,Manager,Full-time,Executive,1,Rashmi Metaliks Limited,Building Materials ,1001 to 5000,8117.00
+J477,"Pune, Maharashtra, India",Pune,Financial Accountant,Accountant,Full-time,Not given,200,UBS,Financial Services ,10000+,1252029.00
+J478,"Pune, Maharashtra, India",Pune,Area Manager - Sales (B2B),Manager,Full-time,Not given,200,Michelin,Automotive ,10000+,639220.00
+J479,"Pune, Maharashtra, India",Pune,Business Analyst,Analyst,Full-time,Mid-Senior level,200,Cognizant,Information Technology & Services ,10000+,5736231.00
+J480,"Hyderabad, Telangana, India",Hyderabad,Assistant Manager-Supply Chain,Manager,Full-time,Mid-Senior level,200,Mahindra Group,Executive Office ,10000+,1071139.00
+J481,"Delhi, Delhi, India",Delhi,Manager - Security,Manager,Full-time,Mid-Senior level,94,Dunzo,Computer Software ,5001 to 10000,270387.00
+J482,"Bengaluru North, Karnataka, India",Bengaluru,HR Generalist,Recruiter,Full-time,Mid-Senior level,50,SmartCoin Financials,Financial Services ,51 to 100,8574.00
+J483,"Mumbai, Maharashtra, India",Mumbai,Manager - Procurement,Manager,Full-time,Mid-Senior level,200,Godrej Group,Consumer Goods ,10000+,278190.00
+J484,"Bengaluru, Karnataka, India",Bengaluru,Internal Auditor,Auditor,Full-time,Mid-Senior level,200,Deloitte,Management Consulting ,10000+,11242133.00
+J485,"Mumbai, Maharashtra, India",Mumbai,Hdfc Limited- Operation- Front Office  -Mumbai,Admin,Full-time,Entry level,200,HDFC Limited,Financial Services ,1001 to 5000,301489.00
+J486,"Chennai, Tamil Nadu, India",Chennai,Engine Development and Testing,Tester,Full-time,Entry level,8,VEGA Intellisoft Pvt Ltd,Information Technology & Services ,501 to 1000,9593.00
+J487,"Chennai, Tamil Nadu, India",Chennai,Video Marketing Lead,marketing,Full-time,Mid-Senior level,16,VPlayed,Computer Software ,201 to 500,1910.00
+J488,"Gurgaon, Haryana, India",Gurgaon,Executive-Operations,Executive,Full-time,Entry level,43,American Express,Financial Services ,10000+,1776398.00
+J489,"Hyderabad, Telangana, India",Hyderabad,Procurement Executive,Executive,Full-time,Mid-Senior level,35,WayCool Foods,Food & Beverages ,1001 to 5000,45977.00
+J490,"Delhi, Delhi, India",Delhi,Payroll Specialist (APAC - India),Payroll Specialist,Full-time,Entry level,75,Horizons,Financial Services ,51 to 100,5380.00
+J491,"Chennai, Tamil Nadu, India",Chennai,Mechanical Engineer Trainer,Manager,Full-time,Entry level,18,STRESCON INDUSTRIES LIMITED,Railroad Manufacture ,501 to 1000,9601.00
+J492,"Mumbai, Maharashtra, India",Mumbai,Assistant Brand Manager - Brand Development,Manager,Full-time,Mid-Senior level,200,Unilever,Consumer Goods ,10000+,18229634.00
+J493,"Bengaluru, Karnataka, India",Bengaluru,Medical Coder,Medical Coder,Full-time,Entry level,200,Optum,Hospital & Health Care ,10000+,570975.00
+J494,"Delhi, Delhi, India",Delhi,Manager - Regional Customer,Manager,Full-time,Mid-Senior level,200,Pidilite Industries Limited,Consumer Goods ,1001 to 5000,413714.00
+J495,"Hyderabad, Telangana, India",Hyderabad,Electrician,Electrician,Full-time,Entry level,15,Talent Zone Consultant,Human Resources ,11 to 50,2872.00
+J496,"Bengaluru, Karnataka, India",Bengaluru,"Content Writer, CX",Content Writer,Full-time,Associate,188,PhonePe,Computer Software ,1001 to 5000,524134.00
+J497,"Bhopal, Madhya Pradesh, India",Bhopal,Front Desk Executive,Executive,Full-time,Mid-Senior level,11,Talish Solutions,Staffing & Recruiting ,101 to 200,1379.00
+J498,"Gurugram, Haryana, India",Gurugram,Analyst,Analyst,Full-time,Not given,200,Wipro,Information Technology & Services ,10000+,6414174.00
+J499,"Bengaluru, Karnataka, India",Bengaluru,Executive Assistant,Assistant,Full-time,Not given,10,GSK,Pharmaceuticals ,10000+,3433566.00
+J500,"Bengaluru, Karnataka, India",Bengaluru,Assistant General Manager Design,Manager,Full-time,Mid-Senior level,10,Flipspaces,Design ,51 to 100,26542.00
