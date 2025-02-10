@@ -4,6 +4,14 @@
 - SQL
 - Microsoft Excel
 - Tableau
+
+  ### •	Use Python's BeautifulSoup and Selenium libraries to scrape job data from LinkedIn.
+  ### •	Clean the data using Python (pandas) and Excel to address missing values, standardize text fields, ensure data consistency, and prepare data for analysis.
+  ### •	Conduct an Exploratory Data Analysis (EDA) using Python libraries like Pandas, Matplotlib, and Seaborn.
+  ### • Used Excel, and SQL to generate key insights.
+  ### •	Compile insights from SQL and Excel analyses into a detailed report.
+  ### •	Used Tableau to create an interactive dashboard that visualizes key insights.
+  
 # Tableau- Dashboard
 ### Link to Job Analytics Dashboard
 
